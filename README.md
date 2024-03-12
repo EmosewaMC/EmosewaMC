@@ -1,4 +1,4 @@
-- Hi, I’m David Markowitz (EmosewaMC) and I am a full time student at Cabrillo College studying Computer Science.  I am graduating from UCSC in the Fall of 2024 with a Bachelors in Computer Science.
+- Hi, I’m David Markowitz (EmosewaMC) and I am graduating from UCSC in the Spring of 2024 with a Bachelors in Computer Science.
 - I’m currently interested in BackEnd Engineer roles, Reverse Engineering and learning oppotunities.
 - I’m currently experienced in C++, C, x86, C# and SQL.  Most proficient in C++.  My first contributions to production style code began in December 2021 and the language we use is C++.
 - I have 2 years of coding classes and 1.5 years of backend engineering experience.  Experience varies from Reverse Engineering assembly into C, helping improve and further develop Entity-Component Systems.  Implementing a test infrastructure to make writing tests easier.  Fully modularizing build systems.  Database management and more.

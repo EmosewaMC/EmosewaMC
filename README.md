@@ -1,7 +1,1 @@
-- Hi, I’m David Markowitz (EmosewaMC) and I am graduating from UCSC in the Spring of 2024 with a Bachelors in Computer Science.
-- I’m currently interested in BackEnd Engineer roles, Reverse Engineering and learning oppotunities.
-- I’m currently experienced in C++, C, x86, C# and SQL.  Most proficient in C++.  My first contributions to production style code began in December 2021 and the language we use is C++.
-- I have 2 years of coding classes and 1.5 years of backend engineering experience.  Experience varies from Reverse Engineering assembly into C, helping improve and further develop Entity-Component Systems.  Implementing a test infrastructure to make writing tests easier.  Fully modularizing build systems.  Database management and more.
-- I’m looking to collaborate on server side code and gaming projects in either C++ or C#.
-- You can reach me at dgmarkowitz@gmail.com or through Discord @ EmosewaMC#5642.  
-- I've really been enjoying learning about OOP and am always pracing my code on either leetCode or contributing to Darkflame Universe, an almost perfect emulation of the live LEGO Universe servers!
+I program a lot. Most of my work is in DarkflameServer with a lot of work hidden in private repositories, so a stats tracker won't show you the full story. If you'd like to hear about the emulation and reverse engineering tools/frameworks ive written that are closed source, i'm always happy to talk
